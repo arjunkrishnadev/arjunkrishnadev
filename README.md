@@ -92,11 +92,13 @@ Goal: Make meaningful contributions while growing as a developer.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arjunkrishnadev&show_icons=true&theme=react&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkrishnadev&layout=compact&theme=react&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=arjunkrishnadev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkrishnadev&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
----
 
 ## 📫 Connect With Me
 
