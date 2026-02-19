@@ -4,7 +4,7 @@
 
 ### Python & Django Developer | Open Source Learner | GSoC Aspirant
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Enthusiast;Learning+Through+Open+Source;Backend+Explorer;Building+Real+World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Enthusiast;Learning+Through+Open+Source;Backend+Explorer;Building+Real+World+Projects" />
 
 </div>
 
@@ -13,9 +13,9 @@
 ## 👨‍💻 About Me
 
 I am a Python and Django developer passionate about backend engineering and building reliable web applications.  
-Currently focusing on improving my skills through real projects and open source contributions.
+Currently improving my skills through real projects and open source contributions.
 
-I enjoy understanding how systems work internally, solving practical problems, and continuously learning from the developer community.
+I enjoy learning how systems work internally, solving real problems, and collaborating with developer communities.
 
 ---
 
@@ -23,29 +23,29 @@ I enjoy understanding how systems work internally, solving practical problems, a
 
 I am actively preparing to contribute to open source and participate in Google Summer of Code.
 
-My focus areas include:
+Focus areas:
 
-- Contributing to Python and Django ecosystems
+- Contributing to Python ecosystems
 - Improving documentation and fixing beginner issues
 - Learning large codebase navigation
-- Collaborating with developers worldwide
-- Writing clean, maintainable code
+- Writing clean and maintainable code
+- Collaborating with developers globally
 
-Goal: Make meaningful contributions while growing as a developer.
-
----
-
-## 🔬 Currently Working On
-
-- Strengthening Git and collaboration workflow
-- Exploring real-world backend architectures
-- Reading open source project codebases
-- Improving debugging skills
-- Preparing for GSoC contributions
+Goal: Grow through meaningful contributions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Current Focus
+
+- Preparing for Google Summer of Code
+- Exploring open source contributions
+- Strengthening Git workflow
+- Improving debugging and testing skills
+- Reading real project codebases
+
+---
+
+## 🛠 Tech Stack
 
 **Backend**
 - Python
@@ -72,10 +72,10 @@ Goal: Make meaningful contributions while growing as a developer.
 ## 🚀 Featured Projects
 
 - Django REST API project
-- Automation scripts using Python
-- Web applications with authentication and database integration
+- Python automation scripts
+- Full stack web applications
 
-(Pin your best repositories here.)
+(Pin your best repositories on your profile.)
 
 ---
 
@@ -99,6 +99,17 @@ Goal: Make meaningful contributions while growing as a developer.
 
 </div>
 
+---
+
+## 🤝 How I Approach Open Source
+
+- Ask thoughtful questions
+- Start with small improvements
+- Learn from code reviews
+- Stay consistent
+- Focus on long-term contribution
+
+---
 
 ## 📫 Connect With Me
 
